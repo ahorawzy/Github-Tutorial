@@ -52,6 +52,7 @@ After check, pr1 is useless. So we delete pr1.
 If you ensure the Pull Request is well, open your browser and press **Merge Pull Request**. And the content of Pull Request will be merged into repository.
 
 There is another way. Because we built a same environment in local, so we merge and push into Github, the Pull Request will reveal the status that Pull Request is accepted. The step is as follows.
+
 1 Merge into Master
 ```git
 $ git checkout gh-pages
