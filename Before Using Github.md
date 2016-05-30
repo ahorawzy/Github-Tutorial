@@ -1,6 +1,6 @@
 ﻿# Before Using Github
 
-标签（空格分隔）： Github
+Github
 
 ---
 
@@ -14,7 +14,11 @@ $ssh-keygen -t rsa -C "your_email@example.com"
 Generating ……
 Enter file ……
 (……):Press Enter
-Enter passphrase:**(attention,if you enter your passphrase,there will not print,but it's acctually remember.So,don't worry and go on!)**
+Enter passphrase:
+```
+
+**(attention,if you enter your passphrase,there will not print,but it's acctually remember.So,don't worry and go on!)**
+```git
 Enter again:
 ```
 It will turns out：
